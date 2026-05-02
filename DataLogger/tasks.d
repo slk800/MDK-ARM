@@ -1,0 +1,17 @@
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+datalogger\tasks.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+datalogger\tasks.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+datalogger\tasks.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+datalogger\tasks.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+datalogger\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+datalogger\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
+datalogger\tasks.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdio.h

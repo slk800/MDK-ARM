@@ -1,0 +1,14 @@
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+datalogger\stream_buffer.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+datalogger\stream_buffer.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+datalogger\stream_buffer.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+datalogger\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+datalogger\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

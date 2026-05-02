@@ -1,0 +1,12 @@
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+datalogger\port.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+datalogger\port.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+datalogger\port.o: ../Core/Inc/FreeRTOSConfig.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+datalogger\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
